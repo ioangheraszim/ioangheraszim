@@ -1,4 +1,4 @@
-# Hello, I'm Ioan Gheraszim 👋
+# Hello, I'm Ioan [E one] 👋
 
 ## About Me
 
