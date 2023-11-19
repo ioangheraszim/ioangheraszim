@@ -25,6 +25,6 @@ I'm a passionate front-end developer based in the UK. I love to bring web design
 
 ## Connect with Me
 
-- Website: [portfolio](https://ioangheraszim.github.io/portofolio/)
+- Website: [Portfolio](https://ioangheraszim.github.io/portofolio/)
 - LinkedIn: [Ioan Gheraszim](https://www.linkedin.com/in/ioan-gheraszim)
 
