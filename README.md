@@ -7,7 +7,7 @@ I'm a passionate front-end developer. I love to bring web designs to life with s
 ## Skills and Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioangheraszim&hide=php&layout=compact" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ioangheraszim&theme=radical" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ioangheraszim&theme=radical" width="500"/>
 </p>
 
 ## Technologies
